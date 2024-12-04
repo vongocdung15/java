@@ -18,7 +18,7 @@
 	<%@include file="includes/Home/navbar.jsp"%>
 	
 	<h1>hello dyng</h1>
-	
+	<h2>dung ok</h2>
 	
 	<%@include file="includes/Home/footer.jsp" %>
 </body>
